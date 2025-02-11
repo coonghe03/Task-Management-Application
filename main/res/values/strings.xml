@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab3</string>
+    <string name="stop_watch">Stop Watch</string>
+    <string name="task_manager">Task Manager</string>
+</resources>
